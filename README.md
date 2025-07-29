@@ -13,7 +13,7 @@
 🚀 **Cursos e Bootcamps**
 
 - 📚 Santander 2025 - Back-End com Python (Em curso)
-- 📚 Ri Happy - Front-end do Zero (Em curso)
+- 📚 Ri Happy - Front-end do Zero
 - 📚 Bootcamp de Cibersegurança #2 – Santander & DIO
 
 🎓 **Formação Acadêmica**
